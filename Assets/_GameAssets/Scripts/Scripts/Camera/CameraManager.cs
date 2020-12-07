@@ -1,12 +1,4 @@
-﻿/*
- * By Fernando Paniagua (2020)
- * 
- * Puedes utilizarlo para lo que quieras, pero si ganas mucho dinero me
- * tienes que invitar a comer cordero asado (es voluntario).
- * 
- */
-
-
+﻿
 using Cinemachine;
 using System.Collections;
 using System.Collections.Generic;
