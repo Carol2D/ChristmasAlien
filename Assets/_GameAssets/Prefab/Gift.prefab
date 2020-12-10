@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6424120741853166243}
   - component: {fileID: -4308785210762448721}
   m_Layer: 11
-  m_Name: Coin
+  m_Name: Gift
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abe38c4b5a5ad274594d5343b4536a37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flyingPointsPrefab: {fileID: 2804304978358362074, guid: 4dd3a709b4f1fae4e85692ce771acc62,
+  flyingPointsPrefab: {fileID: 2804304978358362074, guid: d8bc989f4219967448beee16859a0a71,
     type: 3}
   puntos: 1
 --- !u!1 &6424120741956986795
@@ -140,7 +140,7 @@ Animator:
   m_GameObject: {fileID: 6424120741956986795}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b14b51688c5eebc4fad64b18b1c12d63, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

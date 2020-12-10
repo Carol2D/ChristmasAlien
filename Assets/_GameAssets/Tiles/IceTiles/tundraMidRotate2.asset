@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: waterTop_high
+  m_Name: tundraMidRotate2
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: f5aaf5057b2983041b861f83cd5a4c59, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.4862745}
+  m_Sprite: {fileID: 21300000, guid: e263e334c2173ab4ebb37fefa53b7330, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0

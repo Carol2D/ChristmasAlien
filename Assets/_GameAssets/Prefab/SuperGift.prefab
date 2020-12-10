@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4439154700056274579}
   - component: {fileID: 2344153048729808031}
   m_Layer: 11
-  m_Name: SuperCoin
+  m_Name: SuperGift
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4439154700056274578}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.87, y: 2.43, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abe38c4b5a5ad274594d5343b4536a37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flyingPointsPrefab: {fileID: 2804304978358362074, guid: 4dd3a709b4f1fae4e85692ce771acc62,
+  flyingPointsPrefab: {fileID: 2804304978358362074, guid: d8bc989f4219967448beee16859a0a71,
     type: 3}
   puntos: 10
 --- !u!1 &4439154701420526491
@@ -141,7 +141,7 @@ Animator:
   m_GameObject: {fileID: 4439154701420526491}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b14b51688c5eebc4fad64b18b1c12d63, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

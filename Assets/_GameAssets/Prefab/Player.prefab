@@ -239,7 +239,7 @@ CircleCollider2D:
   m_GameObject: {fileID: 4445926613993314037}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 7bd75f4d291dafe4e82a1f20b7ccb3e4, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -273,7 +273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d22dcf31e6493ed4cbd4028c3ee5d27e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rate: 20
+  rate: 21
   delay: 0.1
 --- !u!114 &4445926613993314034
 MonoBehaviour:
@@ -325,13 +325,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b02716ae2c9238f4a9abd4fc3c42d666, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioCoin: {fileID: 8300000, guid: 8653dfefa8b3ccd41a22e96be6e30d4d, type: 3}
-  audioKey: {fileID: 8300000, guid: efa084393148bc943926548fc6f3876d, type: 3}
-  audioJump: {fileID: 8300000, guid: 682a6bed66c92684381706538939fac4, type: 3}
-  audioLanding: {fileID: 8300000, guid: a314910bc80436d4f8e0747c826c6653, type: 3}
-  audioFire: {fileID: 8300000, guid: 17b837c75f2c4cc4d9f91ce00ae902ef, type: 3}
-  audioDamage: {fileID: 8300000, guid: 66c7eff9b467d9347a70d665a6a2ca9e, type: 3}
-  audioLevelCompleted: {fileID: 8300000, guid: 043216af03ad6464184c3d169c859538, type: 3}
+  audioCoin: {fileID: 8300000, guid: 79c93641d9941f5478abe43f216d6bec, type: 3}
+  audioKey: {fileID: 8300000, guid: aec8f130227dc0b43b9015ebd37e8a18, type: 3}
+  audioJump: {fileID: 8300000, guid: ac3ca8c71aca4ea469b4cb69d80f51ce, type: 3}
+  audioLanding: {fileID: 8300000, guid: 4888089a0d1159a40b59b79b9ac87499, type: 3}
+  audioFire: {fileID: 8300000, guid: 1a199a99e70beb14b814d3374e0d702e, type: 3}
+  audioDamage: {fileID: 8300000, guid: 6aea91c7347c8aa4c85dd705e0aefac0, type: 3}
+  audioLevelCompleted: {fileID: 8300000, guid: 79739c86dd405bc4cbea79182e31faf9, type: 3}
 --- !u!114 &4445926613993314035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -356,7 +356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef81988f46879794282f6fdfe39bce6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabProjectile: {fileID: 4365109220067613307, guid: c7042de8d429e774190ff586a045f100,
+  prefabProjectile: {fileID: 4365109220067613307, guid: bafab4dfc07557542812de3728d255e1,
     type: 3}
   spawnPoint: {fileID: 4445926614350929819}
   verticalForce: 80
